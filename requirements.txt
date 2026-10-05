@@ -1,0 +1,6 @@
+scrapy==2.19.0
+scrapy-poet==0.27.2
+web-poet==0.24.1
+scrapy-zyte-api==0.36.0
+python-dotenv==1.2.4
+attrs==26.1.0
